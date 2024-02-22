@@ -1,10 +1,9 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HaiderMalikk)](https://github.com/anuraghazra/github-readme-stats)
 
-
-- 👋 Hi, I’m @HaiderMalikk
-- 👀 I’m interested in PYTHON!
-- 🌱 I’m currently learning PYTHON!
-- 💞️ I’m looking to collaborate on PYTHON!
+- 👋 Hi, I’m Haider Malik
+- 👀 I’m interested in Software Development 
+- 🌱 I’m currently learning React Native and Flutter 
+- 💞️ I’m looking to collaborate on CrossPlatform App development 
 - 📫 How to reach me haidermalik662@gmail.com
-- ⚡ Fun fact: PYTHON!
+- ♟️ Download my Chess Bot!
 
