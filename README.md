@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Studying Software Engineering At York University. I Have 3 Years of Python Experience, Be Sure to Check Out My Chess Bot! I Have My in-depth CS Notes on GitHub that are constantly changing. I Also Post Daily LeetCode Problem Solutions With In-Depth and Beginner Friendly Solutions.</p>
+<p align="left">I'm Studying Software Engineering At York University. I Have 3+ Years of Python Experience, Be Sure to Check Out My Projects! I Also Have My in-depth CS Notes on GitHub that are constantly changing and include things like syntax, basics and even advanced algorithms and data structures. I Also Post LeetCode Problem Solutions With In-Depth and Beginner Friendly Solutions.</p>
 
 ###
 
