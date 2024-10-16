@@ -46,8 +46,11 @@
   <a href="https://www.youtube.com/@interestingly05/videos" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
+  <a href="https://leetcode.com/u/unmaintainablecodewriter/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="leetcode logo"  />
+  </a>
   <a href="https://stackoverflow.com/users/23523076/haider-malik" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
+    <img src="https://github.com/HaiderMalikk/HaiderMalikk/blob/main/LeetCode_Logo_black_with_text.svg-removebg-preview.jpg" height="35" alt="stackoverflow logo"  />
   </a>
 </div>
 
