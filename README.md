@@ -2,13 +2,17 @@
 
 ###
 
-<p align="left">I'm Studying Software Engineering At York University. I Have Experience In
+<p align="left">
+  I'm Studying Software Engineering At York University. I Have Experience In
   Languages Like Python, Java, and Javascript/Typescript. I enjoy ML And Data
   Engineering in Python, Full-stack development with React Native/ReactJS and
   Django(Python), Backend development with SpringBoot (Java). Be Sure to Check
   Out My Projects! and My in-depth CS Notes that cover things like syntax,
   basics and advanced algorithms, and data structures. I have some Computer
-  Scince Stuff on my youtube channel aswell so check that out too.</p>
+  Scince Stuff on my youtube channel as well so check that out too.
+  <br><br>
+  Want to know more? <a href="https://haidermalikk.github.io/HaiderMaliksWebsite/" style="color: blue;">Check out my portfolio website</a>.
+</p>
 
 ###
 
