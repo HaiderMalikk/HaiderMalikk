@@ -21,9 +21,7 @@
       alt="haidermalik662@gmail.com"
       height="30"
       width="40"
-    />
-  </a>
-
+  /></a>
   <a
     href="https://linkedin.com/in/https://www.linkedin.com/in/haider-malik-268ab229b/"
     target="blank"
@@ -162,7 +160,7 @@
       />
     </p>
   </div>
-
+  
   <div>
     <h4 align="left">Backend</h4>
     <p align="left">
@@ -292,13 +290,13 @@
 <div style="display: flex; justify-content: center; gap: 20px;">
   <img
     align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=haidermalikk&show_icons=true&locale=en&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=haidermalikk&show_icons=true&theme=dark&locale=en&layout=compact"
     alt="haidermalikk"
     style="width: 288px; height: auto;"
   />
   <img
     align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=haidermalikk&"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=haidermalikk&theme=dark"
     alt="haidermalikk"
     style="width: 400px; height: auto;" 
   />
