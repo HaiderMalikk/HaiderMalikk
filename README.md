@@ -1,7 +1,7 @@
-<h1 align="left">Hi, My Name Is Haider 👋</h1>
+<h1 align="center">Hi, My Name Is Haider 👋</h1>
 
 ###
-
+<h2 align="center">About🚶</h2>
 <p align="left">
   I'm Studying Software Engineering At York University. I Have Experience In
   Languages Like Python, Java, and Javascript/Typescript. I enjoy ML And Data
@@ -67,8 +67,8 @@
       width="40"
   /></a>
 </p>
-
-<h3 align="left">Languages</h3>
+<h2 align="center">Skills💪</h2>
+<h3 align="left">Languages:</h3>
 <p align="left">
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
@@ -120,144 +120,150 @@
   />
 </p>
 
-<h3 align="left">Tools</h3>
+<h3 align="left">Tools:</h3>
 
 <div style="display: flex; gap: 30px; flex-wrap: wrap;">
-  <div>
-    <h4 align="left">Frontend</h4>
-    <p align="left">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-        alt="react"
-        width="40"
-        height="40"
-      />
-      <img
-        src="https://reactnative.dev/img/header_logo.svg"
-        alt="reactnative"
-        width="40"
-        height="40"
-      />
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-        alt="bootstrap"
-        width="40"
-        height="40"
-      />
-      <img
-        src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
-        alt="tailwind"
-        width="40"
-        height="40"
-      />
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-        alt="html5"
-        width="40"
-        height="40"
-      />
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-        alt="css3"
-        width="40"
-        height="40"
-      />
-    </p>
-  </div>
-  
-  <div>
-    <h4 align="left">Backend</h4>
-    <p align="left">
-      <img
-        src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"
-        alt="spring"
-        width="40"
-        height="40"
-      />
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-        alt="nodejs"
-        width="40"
-        height="40"
-      />
-      <img
-        src="https://cdn.worldvectorlogo.com/logos/django.svg"
-        alt="django"
-        width="40"
-        height="40"
-      />
-    </p>
-  </div>
+  <h4 align="left">Frontend</h4>
+  <p align="left">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+      alt="react"
+      width="40"
+      height="40"
+    />
+    <img
+      src="https://reactnative.dev/img/header_logo.svg"
+      alt="reactnative"
+      width="40"
+      height="40"
+    />
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+      alt="bootstrap"
+      width="40"
+      height="40"
+    />
+    <img
+      src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
+      alt="tailwind"
+      width="40"
+      height="40"
+    />
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+      alt="html5"
+      width="40"
+      height="40"
+    />
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+      alt="css3"
+      width="40"
+      height="40"
+    />
+  </p>
+</div>
 
-  <div>
-    <h4 align="left">AI/ML</h4>
-    <p align="left">
-      <img
-        src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"
-        alt="tensorflow"
-        width="40"
-        height="40"
-      />
-      <img
-        src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"
-        alt="pytorch"
-        width="40"
-        height="40"
-      />
-      <img
-        src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"
-        alt="opencv"
-        width="40"
-        height="40"
-      />
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
-        alt="pandas"
-        width="40"
-        height="40"
-      />
-      <img
-        src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"
-        alt="scikit_learn"
-        width="40"
-        height="40"
-      />
-    </p>
-  </div>
+<div>
+  <h4 align="left">Backend</h4>
+  <p align="left">
+    <img
+      src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"
+      alt="spring"
+      width="40"
+      height="40"
+    />
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+      alt="nodejs"
+      width="40"
+      height="40"
+    />
+    <img
+      src="https://cdn.worldvectorlogo.com/logos/django.svg"
+      alt="django"
+      width="40"
+      height="40"
+    />
+  </p>
+</div>
 
-  <div>
-    <h4 align="left">DevOps</h4>
-    <p align="left">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-        alt="docker"
-        width="40"
-        height="40"
-      />
-      <img
-        src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"
-        alt="kubernetes"
-        width="40"
-        height="40"
-      />
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-        alt="aws"
-        width="40"
-        height="40"
-      />
-      <img
-        src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"
-        alt="google cloud"
-        width="40"
-        height="40"
-      />
-    </p>
-  </div>
+<div>
+  <h4 align="left">AI/ML</h4>
+  <p align="left">
+    <img
+      src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"
+      alt="tensorflow"
+      width="40"
+      height="40"
+    />
+    <img
+      src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"
+      alt="pytorch"
+      width="40"
+      height="40"
+    />
+    <img
+      src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"
+      alt="opencv"
+      width="40"
+      height="40"
+    />
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
+      alt="pandas"
+      width="40"
+      height="40"
+    />
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"
+      alt="scikit_learn"
+      width="40"
+      height="40"
+    />
+  </p>
+</div>
+
+<div>
+  <h4 align="left">DevOps</h4>
+  <p align="left">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
+      alt="docker"
+      width="40"
+      height="40"
+    />
+    <img
+      src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"
+      alt="kubernetes"
+      width="40"
+      height="40"
+    />
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+      alt="aws"
+      width="40"
+      height="40"
+    />
+    <img
+      src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"
+      alt="google cloud"
+      width="40"
+      height="40"
+    />
+  </p>
 </div>
 
 
-<h3 align="left">Other Tools</h3>
+<h3 align="left">Databases:</h3>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
+</p>
+
+<h3 align="left">Other Tools:</h3>
 <p align="left">
   <img
     src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
@@ -291,18 +297,12 @@
   />
 </p>
 
-<div style="display: flex; justify-content: center; gap: 20px;">
-  <img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=haidermalikk&show_icons=true&theme=dark&locale=en&layout=compact"
-    alt="haidermalikk"
-    style="width: 288px; height: auto;"
-  />
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=haidermalikk&theme=dark"
-    alt="haidermalikk"
-    style="width: 400px; height: auto;" 
-  />
+<h2 align="center">Stats🤓</h2>
+
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=haidermalikk&show_icons=true&theme=dark&locale=en&layout=compact" alt="haidermalikk" width="288" />
+  &nbsp;&nbsp; <!-- This creates a space between the images -->
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haidermalikk&theme=dark" alt="haidermalikk" width="400" />
 </div>
+
 
