@@ -27,7 +27,7 @@
       width="40"
   /></a>
   <a
-    href="https://linkedin.com/in/https://www.linkedin.com/in/haider-malik-268ab229b/"
+    href="https://www.linkedin.com/in/haider-malik-268ab229b/"
     target="blank"
     ><img
       align="center"
@@ -37,17 +37,7 @@
       width="40"
   /></a>
   <a
-    href="https://stackoverflow.com/users/https://stackoverflow.com/users/23523076/haider-malik"
-    target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
-      alt="https://stackoverflow.com/users/23523076/haider-malik"
-      height="30"
-      width="40"
-  /></a>
-  <a
-    href="https://www.youtube.com/c/https://www.youtube.com/@interestingly05/videos"
+    href="https://www.youtube.com/@interestingly05/videos"
     target="blank"
     ><img
       align="center"
@@ -57,12 +47,22 @@
       width="40"
   /></a>
   <a
-    href="https://www.leetcode.com/https://leetcode.com/u/unmaintainablecodewriter/"
+    href="https://leetcode.com/u/unmaintainablecodewriter/"
     target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
       alt="https://leetcode.com/u/unmaintainablecodewriter/"
+      height="30"
+      width="40"
+  /></a>
+  <a
+    href="https://stackoverflow.com/users/23523076/haider-malik"
+    target="blank"
+    ><img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
+      alt="https://stackoverflow.com/users/23523076/haider-malik"
       height="30"
       width="40"
   /></a>
