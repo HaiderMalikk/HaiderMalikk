@@ -179,6 +179,7 @@
       width="40"
       height="40"
     />
+    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> 
     <img
       src="https://cdn.worldvectorlogo.com/logos/django.svg"
       alt="django"
