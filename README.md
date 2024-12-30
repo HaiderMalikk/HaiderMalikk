@@ -323,7 +323,7 @@
 I am currently working on a website called Mood Atlas, it's a website where you can find places to visit near you based on how you feel, you can enter things like your mood, activity, hobby and radius or search and based on that it will generate and display the place to you. This full-stack project uses the Reacts next.js framework for the frontend and place fetching, Pythons Flask framework for the backend API and place generation, Javas SpringBoot for managing user info and SQL for storing that user info. This fully functional website is almost complete and needs a few more adjustments and features. Once Complete Expect to see it deployed and ready to use free of charge. Meanwhile here is a link and a few pics of the project.
 </p>
 <div align="center"  style="margin-top: 100px;">  
-  <a href="https://haidermalikk.github.io/HaiderMaliksWebsite/" style="color: blue;">Mood Atlas GitHub Repository</a>.
+  <a href="https://github.com/HaiderMalikk/Mood-Atlas" style="color: blue;">Mood Atlas GitHub Repository</a>.
 </div>
 <br>
 <div align="center" style="margin-top: 100px;">
