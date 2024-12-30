@@ -5,124 +5,129 @@
 <p align="left">
   I'm Studying Software Engineering At York University. I Have Experience In
   Languages Like Python, Java, and Javascript/Typescript. I enjoy ML And Data
-  Engineering in Python, Full-stack development with React Native/ReactJS and
-  Django(Python), Backend development with SpringBoot (Java). Be Sure to Check
-  Out My Projects! and My in-depth CS Notes that cover things like syntax,
+  Engineering in Python, Full-stack development with React Native/ ReactJS and Backend development
+  with Django(Python), Flask(Python) and SpringBoot (Java). Be Sure to Check
+  Out My Projects! and My in-depth CS Notes covering syntax,
   basics and advanced algorithms, and data structures. I have some Computer
-  Scince Stuff on my youtube channel as well so check that out too.
+  Science Stuff on my YouTube channel as well so check that out too. My goal is to learn something new every day, whether it's through school, LeetCode, a project, or any other activity. I   believe that every bit of knowledge gained, no matter how small or significant, represents progress and brings me closer to my personal goals"
   <br><br>
   Want to know more? <a href="https://haidermalikk.github.io/HaiderMaliksWebsite/" style="color: blue;">Check out my portfolio website</a>.
 </p>
 
 ###
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="mailto:haidermalik662@gmail.com" target="blank">
-    <img
-      align="center"
-      src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"
-      alt="haidermalik662@gmail.com"
-      height="30"
-      width="40"
-  /></a>
-  <a
-    href="https://www.linkedin.com/in/haider-malik-268ab229b/"
-    target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="https://www.linkedin.com/in/haider-malik-268ab229b/"
-      height="30"
-      width="40"
-  /></a>
-  <a
-    href="https://www.youtube.com/@interestingly05/videos"
-    target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
-      alt="https://www.youtube.com/@interestingly05/videos"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://discord.gg/H3THGwXb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="H3THGwXb" height="30" width="40" /></a>
-  <a
-    href="https://leetcode.com/u/unmaintainablecodewriter/"
-    target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
-      alt="https://leetcode.com/u/unmaintainablecodewriter/"
-      height="30"
-      width="40"
-  /></a>
-  <a
-    href="https://stackoverflow.com/users/23523076/haider-malik"
-    target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
-      alt="https://stackoverflow.com/users/23523076/haider-malik"
-      height="30"
-      width="40"
-  /></a>
-</p>
+<div style="display: flex; gap: 30px; flex-wrap: wrap;">
+  <h3 align="left">Connect with me:</h3>
+  <p align="left">
+    <a href="mailto:haidermalik662@gmail.com" target="blank">
+      <img
+        align="center"
+        src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"
+        alt="haidermalik662@gmail.com"
+        height="30"
+        width="40"
+    /></a>
+    <a
+      href="https://www.linkedin.com/in/haider-malik-268ab229b/"
+      target="blank"
+      ><img
+        align="center"
+        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+        alt="https://www.linkedin.com/in/haider-malik-268ab229b/"
+        height="30"
+        width="40"
+    /></a>
+    <a
+      href="https://www.youtube.com/@interestingly05/videos"
+      target="blank"
+      ><img
+        align="center"
+        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
+        alt="https://www.youtube.com/@interestingly05/videos"
+        height="30"
+        width="40"
+    /></a>
+    <a href="https://discord.gg/H3THGwXb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="H3THGwXb" height="30" width="40" /></a>
+    <a
+      href="https://leetcode.com/u/unmaintainablecodewriter/"
+      target="blank"
+      ><img
+        align="center"
+        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
+        alt="https://leetcode.com/u/unmaintainablecodewriter/"
+        height="30"
+        width="40"
+    /></a>
+    <a
+      href="https://stackoverflow.com/users/23523076/haider-malik"
+      target="blank"
+      ><img
+        align="center"
+        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
+        alt="https://stackoverflow.com/users/23523076/haider-malik"
+        height="30"
+        width="40"
+    /></a>
+  </p>
+</div>
+
 <h2 align="center">Skills💪</h2>
+<div style="display: flex; gap: 30px; flex-wrap: wrap;">
 <h3 align="left">Languages:</h3>
-<p align="left">
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-    alt="java"
-    width="40"
-    height="40"
-  />
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-    alt="python"
-    width="40"
-    height="40"
-  />
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-    alt="javascript"
-    width="40"
-    height="40"
-  />
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-    alt="typescript"
-    width="40"
-    height="40"
-  />
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg"
-    alt="swift"
-    width="40"
-    height="40"
-  />
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-    alt="cplusplus"
-    width="40"
-    height="40"
-  />
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-    alt="csharp"
-    width="40"
-    height="40"
-  />
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-    alt="c"
-    width="40"
-    height="40"
-  />
-</p>
+  <p align="left">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+      alt="java"
+      width="40"
+      height="40"
+    />
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+      alt="python"
+      width="40"
+      height="40"
+    />
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+      alt="javascript"
+      width="40"
+      height="40"
+    />
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+      alt="typescript"
+      width="40"
+      height="40"
+    />
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg"
+      alt="swift"
+      width="40"
+      height="40"
+    />
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+      alt="cplusplus"
+      width="40"
+      height="40"
+    />
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
+      alt="csharp"
+      width="40"
+      height="40"
+    />
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
+      alt="c"
+      width="40"
+      height="40"
+    />
+  </p>
+</div>
+
 
 <h3 align="left">Tools:</h3>
-
 <div style="display: flex; gap: 30px; flex-wrap: wrap;">
   <h4 align="left">Frontend</h4>
   <p align="left">
@@ -165,7 +170,7 @@
   </p>
 </div>
 
-<div>
+<div style="display: flex; gap: 30px; flex-wrap: wrap;">
   <h4 align="left">Backend</h4>
   <p align="left">
     <img
@@ -198,7 +203,7 @@
   </p>
 </div>
 
-<div>
+<div style="display: flex; gap: 30px; flex-wrap: wrap;">
   <h4 align="left">AI/ML</h4>
   <p align="left">
     <img
@@ -234,7 +239,7 @@
   </p>
 </div>
 
-<div>
+<div style="display: flex; gap: 30px; flex-wrap: wrap;">
   <h4 align="left">DevOps</h4>
   <p align="left">
     <img
@@ -265,53 +270,69 @@
   </p>
 </div>
 
-
+<div style="display: flex; gap: 30px; flex-wrap: wrap;">  
 <h3 align="left">Databases:</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" />
-  <img src="./chroma-seeklogo.svg" alt="chromadb" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
-</p>
+  <p align="left">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" />
+    <img src="./chroma-seeklogo.svg" alt="chromadb" width="40" height="40" />
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
+  </p>
+</div>
 
-<h3 align="left">Other Tools:</h3>
-<p align="left">
-  <img
-    src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-    alt="git"
-    width="40"
-    height="40"
-  />
-  <img
-    src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"
-    alt="arduino"
-    width="40"
-    height="40"
-  />
-  <img
-    src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg"
-    alt="unity"
-    width="40"
-    height="40"
-  />
-  <img
-    src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-    alt="postman"
-    width="40"
-    height="40"
-  />
-  <img
-    src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
-    alt="figma"
-    width="40"
-    height="40"
-  />
+<div style="display: flex; gap: 30px; flex-wrap: wrap;"> 
+  <h3 align="left">Other Tools:</h3>
+  <p align="left">
+    <img
+      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+      alt="git"
+      width="40"
+      height="40"
+    />
+    <img
+      src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"
+      alt="arduino"
+      width="40"
+      height="40"
+    />
+    <img
+      src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg"
+      alt="unity"
+      width="40"
+      height="40"
+    />
+    <img
+      src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
+      alt="postman"
+      width="40"
+      height="40"
+    />
+    <img
+      src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
+      alt="figma"
+      width="40"
+      height="40"
+    />
+  </p>
+</div>
+
+<h2 align="center">Latest Work🧑‍💻</h2>
+<p>
+I am currently working on a website called Mood Atlas, it's a website where you can find places to visit near you based on how you feel, you can enter things like your mood, activity, hobby and radius or search and based on that it will generate and display the place to you. This full-stack project uses the Reacts next.js framework for the frontend and place fetching, Pythons Flask framework for the backend API and place generation, Javas SpringBoot for managing user info and SQL for storing that user info. This fully functional website is almost complete and needs a few more adjustments and features. Once Complete Expect to see it deployed and ready to use free of charge. Meanwhile here is a link and a few pics of the project.
 </p>
+<div align="center"  style="margin-top: 100px;">  
+  <a href="https://haidermalikk.github.io/HaiderMaliksWebsite/" style="color: blue;">Mood Atlas GitHub Repository</a>.
+</div>
+<br>
+<div align="center" style="margin-top: 100px;">
+  <img align="center" src="https://github.com/HaiderMalikk/Mood-Atlas/blob/main/assets/firstin.png" alt="moodatlas" width="400" />
+  <img align="center" src="https://github.com/HaiderMalikk/Mood-Atlas/blob/main/assets/logo-nobg.png" alt="moodatlas" width="150" />
+  <img align="center" src="https://github.com/HaiderMalikk/Mood-Atlas/blob/main/assets/afterpromt.png" alt="moodatlas" width="400" />  
+</div>
 
 <h2 align="center">Stats🤓</h2>
-
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=haidermalikk&show_icons=true&theme=dark&locale=en&layout=compact" alt="haidermalikk" width="288" />
   &nbsp;&nbsp; <!-- This creates a space between the images -->
