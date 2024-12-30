@@ -327,9 +327,9 @@ I am currently working on a website called Mood Atlas, it's a website where you 
 </div>
 <br>
 <div align="center" style="margin-top: 100px;">
-  <img align="center" src="https://github.com/HaiderMalikk/Mood-Atlas/blob/main/assets/firstin.png" alt="moodatlas" width="400" />
-  <img align="center" src="https://github.com/HaiderMalikk/Mood-Atlas/blob/main/assets/logo-nobg.png" alt="moodatlas" width="150" />
-  <img align="center" src="https://github.com/HaiderMalikk/Mood-Atlas/blob/main/assets/afterpromt.png" alt="moodatlas" width="400" />  
+  <img align="center" src="https://github.com/HaiderMalikk/Mood-Atlas/blob/main/assets/firstin.png" alt="moodatlas" width="300" />
+  <img align="center" src="https://github.com/HaiderMalikk/Mood-Atlas/blob/main/assets/logo-nobg.png" alt="moodatlas" width="100" />
+  <img align="center" src="https://github.com/HaiderMalikk/Mood-Atlas/blob/main/assets/afterpromt.png" alt="moodatlas" width="300" />  
 </div>
 
 <h2 align="center">Stats🤓</h2>
