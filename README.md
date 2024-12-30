@@ -181,6 +181,7 @@
       height="40"
     />
     <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
      <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"
       alt="flask"
@@ -260,6 +261,7 @@
       width="40"
       height="40"
     />
+     <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
   </p>
 </div>
 
@@ -315,5 +317,4 @@
   &nbsp;&nbsp; <!-- This creates a space between the images -->
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haidermalikk&theme=dark" alt="haidermalikk" width="400" />
 </div>
-
 
