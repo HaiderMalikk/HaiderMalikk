@@ -9,7 +9,7 @@
   with Django(Python), Flask(Python) and SpringBoot (Java). Be Sure to Check
   Out My Projects! and My in-depth CS Notes covering syntax,
   basics and advanced algorithms, and data structures. I have some Computer
-  Science Stuff on my YouTube channel as well so check that out too. My goal is to learn something new every day, whether it's through school, LeetCode, a project, or any other activity. I   believe that every bit of knowledge gained, no matter how small or significant, represents progress and brings me closer to my personal goals"
+  Science Stuff on my YouTube channel as well so check that out too. My goal is to learn something new every day, whether it's through school, LeetCode, a project, or any other activity. I   believe that every bit of knowledge gained, no matter how small or significant, represents progress and brings me closer to my personal goals.
   <br><br>
   Want to know more? <a href="https://haidermalikk.github.io/HaiderMaliksWebsite/" style="color: blue;">Check out my portfolio website</a>.
 </p>
