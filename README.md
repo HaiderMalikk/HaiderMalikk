@@ -323,13 +323,20 @@
 I am currently working on a website called Mood Atlas, it's a website where you can find places to visit near you based on how you feel, you can enter things like your mood, activity, hobby and radius or search and based on that it will generate and display the place to you. This full-stack project uses the Reacts next.js framework for the frontend and place fetching, Pythons Flask framework for the backend API and place generation, Javas SpringBoot for managing user info and SQL for storing that user info. This fully functional website is almost complete and needs a few more adjustments and features. Once Complete Expect to see it deployed and ready to use free of charge. Meanwhile here is a link and a few pics of the project.
 </p>
 <div align="center"  style="margin-top: 100px;">  
-  <a href="https://github.com/HaiderMalikk/Mood-Atlas" style="color: blue;">Mood Atlas GitHub Repository</a>.
+  <h1 href="https://mood-atlas.vercel.app" style="border-bottom: none; margin: 0; color:orange" >Try Out Mood Atlas</h1>
+  <a href="https://mood-atlas.vercel.app" style="color: blue;">Check It Out Here
+  <img src="https://github.com/HaiderMalikk/Mood-Atlas/blob/main/assets/link.png" alt="Home" width="50" height="auto" />
+  </a>
+</div>
+<br>
+<div align="center"  style="margin-top: 100px;">  
+  <a href="https://github.com/HaiderMalikk/mood-atlas-production_build" style="color: blue;">Mood Atlas Production Version GitHub Repository</a>.
 </div>
 <br>
 <div align="center" style="margin-top: 100px;">
   <img align="center" src="https://github.com/HaiderMalikk/Mood-Atlas/blob/main/assets/firstin.png" alt="moodatlas" width="300" />
   <img align="center" src="https://github.com/HaiderMalikk/Mood-Atlas/blob/main/assets/logo-nobg.png" alt="moodatlas" width="100" />
-  <img align="center" src="https://github.com/HaiderMalikk/Mood-Atlas/blob/main/assets/afterpromt.png" alt="moodatlas" width="300" />  
+  <img align="center" src="https://github.com/HaiderMalikk/Mood-Atlas/blob/main/assets/afterprompt.png" alt="moodatlas" width="300" />  
 </div>
 
 <h2 align="center">Stats🤓</h2>
