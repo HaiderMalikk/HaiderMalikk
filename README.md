@@ -341,8 +341,7 @@ I am currently working on a website called Mood Atlas, it's a website where you 
 
 <h2 align="center">Stats🤓</h2>
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=haidermalikk&show_icons=true&theme=dark&locale=en&layout=compact" alt="haidermalikk" width="288" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=haidermalikk&show_icons=true&theme=dark&locale=en&layout=compact" alt="lang_graph" width="288" />
   &nbsp;&nbsp; <!-- This creates a space between the images -->
-  <img align="center" src="https://streak-stats.demolab.com/?user=haidermalikk&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" alt="haidermalikk" width="400" />
+  <img align="center" src="https://streak-stats.demolab.com?user=haidermalikk&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" width="400" alt="streak graph"  />
 </div>
-
