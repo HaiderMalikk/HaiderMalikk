@@ -167,6 +167,7 @@
       width="40"
       height="40"
     />
+    <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/>
   </p>
 </div>
 
