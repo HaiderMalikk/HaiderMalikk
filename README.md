@@ -2,17 +2,11 @@
 
 ###
 <h2 align="center">About🚶</h2>
-<p align="left">
-  I'm Studying Software Engineering At York University. I Have Experience In
-  Languages Like Python, Java, and Javascript/Typescript. I enjoy ML And Data
-  Engineering in Python, Full-stack development with React Native/ ReactJS and Backend development
-  with Django(Python), Flask(Python) and SpringBoot (Java). Be Sure to Check
-  Out My Projects! and My in-depth CS Notes covering syntax,
-  basics and advanced algorithms, and data structures. I have some Computer
-  Science Stuff on my YouTube channel as well so check that out too. My goal is to learn something new every day, whether it's through school, LeetCode, a project, or any other activity. I   believe that every bit of knowledge gained, no matter how small or significant, represents progress and brings me closer to my personal goals.
-  <br><br>
-  Want to know more? <a href="https://haidermalikk.github.io/HaiderMaliksWebsite/" style="color: blue;">Check out my portfolio website</a>.
-</p>
+
+| <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="200"> | I'm Studying Software Engineering at York University. I have experience in languages like Python, Java, and JavaScript/TypeScript. I enjoy ML and Data Engineering in Python, full-stack development with React Native/ReactJS, and backend development with Django, Flask, and Spring Boot. Be sure to check out my projects and my in-depth CS notes covering syntax, basics, advanced algorithms, and data structures. I also have some Computer Science content on my YouTube channel. My goal is to learn something new every day through school, LeetCode, projects, or any other activity. I believe that every bit of knowledge gained, no matter how small, represents progress. Want to know more? [Check out my portfolio website](https://haidermalikk.github.io/HaiderMaliksWebsite/).|
+|---|---|
+
+
 
 ###
 
