@@ -27,7 +27,7 @@
         src="https://skillicons.dev/icons?i=linkedin"
         alt="https://www.linkedin.com/in/haider-malik-268ab229b/"
     /></a>
-    <a href="https://discord.gg/2nSe3DPs" target="blank">
+    <a href="https://discord.gg/sFj39aQq" target="blank">
       <img align="center" src="https://skillicons.dev/icons?i=discord" alt="2nSe3DPs" />
     </a>
     <a
