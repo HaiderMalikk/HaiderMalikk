@@ -145,25 +145,16 @@
   </p>
 </div>
 
-<h2 align="center">Latest Work🧑‍💻</h2>
-<p>
-I am currently working on a website called Mood Atlas, it's a website where you can find places to visit near you based on how you feel, you can enter things like your mood, activity, hobby and radius or search and based on that it will generate and display the place to you. This full-stack project uses the Reacts next.js framework for the frontend and place fetching, Pythons Flask framework for the backend API and place generation, Javas SpringBoot for managing user info and SQL for storing that user info. This fully functional website is almost complete and needs a few more adjustments and features. Once Complete Expect to see it deployed and ready to use free of charge. Meanwhile here is a link and a few pics of the project.
-</p>
-<div align="center"  style="margin-top: 100px;">  
-  <h1 href="https://mood-atlas.vercel.app" style="border-bottom: none; margin: 0; color:orange" >Try Out Mood Atlas</h1>
-  <a href="https://mood-atlas.vercel.app" style="color: blue;">Check It Out Here
-  <img src="https://github.com/HaiderMalikk/Mood-Atlas/blob/main/assets/link.png" alt="Home" width="50" height="auto" />
-  </a>
-</div>
-<br>
-<div align="center"  style="margin-top: 100px;">  
-  <a href="https://github.com/HaiderMalikk/mood-atlas-production_build" style="color: blue;">Mood Atlas Production Version GitHub Repository</a>.
-</div>
-<br>
-<div align="center" style="margin-top: 100px;">
-  <img align="center" src="https://github.com/HaiderMalikk/Mood-Atlas/blob/main/assets/firstin.png" alt="moodatlas" width="300" />
-  <img align="center" src="https://github.com/HaiderMalikk/Mood-Atlas/blob/main/assets/logo-nobg.png" alt="moodatlas" width="100" />
-  <img align="center" src="https://github.com/HaiderMalikk/Mood-Atlas/blob/main/assets/afterprompt.png" alt="moodatlas" width="300" />  
+<div align="center">
+  <h2>Latest Work 🧑‍💻</h2>
+
+  | <img src="https://github.com/HaiderMalikk/Trade-Sense-AI/blob/main/public/logo.svg" width="30" align="center"> **Trade Sense AI** | <img src="https://github.com/HaiderMalikk/Mood-Atlas/blob/main/assets/logo-nobg.png" width="30"> **Mood Atlas** |
+|-------------------|------------------|
+| Trade Sense AI is a hybrid stock prediction system that combines social sentiment analysis with traditional financial data and advanced analytics to provide a more accurate, holistic prediction model that is useful and unique. | Mood Atlas is an AI place finder. Tell it how you feel, what you want to do, what you like, etc., and it finds a spot near you that you can visit based on your mood. |
+| <img src="https://github.com/HaiderMalikk/Trade-Sense-AI/blob/main/public/logo-w-text.svg" width="200"> | <img src="https://github.com/HaiderMalikk/Mood-Atlas/blob/main/assets/afterprompt.png" width="200"> |
+| [GitHub Repo](https://github.com/HaiderMalikk/Trade-Sense-AI) <img src="https://github.com/HaiderMalikk/Mood-Atlas/blob/main/assets/link.png" width="15"> • Coming Soon | [Website](https://mood-atlas.vercel.app) <img src="https://github.com/HaiderMalikk/Mood-Atlas/blob/main/assets/link.png" width="15"> • [GitHub Repo](https://github.com/HaiderMalikk/mood-atlas-production_build) <img src="https://github.com/HaiderMalikk/Mood-Atlas/blob/main/assets/link.png" width="15"> |
+
+
 </div>
 
 <h2 align="center">Stats🤓</h2>
