@@ -147,12 +147,12 @@
 
 <div align="center">
   <h2>Latest Work 🧑‍💻</h2>
-
-  | <img src="https://github.com/HaiderMalikk/Trade-Sense-AI/blob/main/public/logo.svg" width="30" align="center"> **Trade Sense AI** | <img src="https://github.com/HaiderMalikk/Mood-Atlas/blob/main/assets/logo-nobg.png" width="30"> **Mood Atlas** |
+  
+| <img src="https://github.com/HaiderMalikk/Trade-Sense-AI/blob/main/public/logo.svg" width="30" align="center"> **Trade Sense AI** | <img src="https://github.com/HaiderMalikk/HaiderMalikk/blob/main/logo-nobg.png" width="35" align="center"> **Mood Atlas** |
 |-------------------|------------------|
 | Trade Sense AI is a hybrid stock prediction system that combines social sentiment analysis with traditional financial data and advanced analytics to provide a more accurate, holistic prediction model that is useful and unique. | Mood Atlas is an AI place finder. Tell it how you feel, what you want to do, what you like, etc., and it finds a spot near you that you can visit based on your mood. |
-| <img src="https://github.com/HaiderMalikk/Trade-Sense-AI/blob/main/public/logo-w-text.svg" width="200"> | <img src="https://github.com/HaiderMalikk/Mood-Atlas/blob/main/assets/afterprompt.png" width="200"> |
-| [GitHub Repo](https://github.com/HaiderMalikk/Trade-Sense-AI) <img src="https://github.com/HaiderMalikk/Mood-Atlas/blob/main/assets/link.png" width="15"> • Coming Soon | [Website](https://mood-atlas.vercel.app) <img src="https://github.com/HaiderMalikk/Mood-Atlas/blob/main/assets/link.png" width="15"> • [GitHub Repo](https://github.com/HaiderMalikk/mood-atlas-production_build) <img src="https://github.com/HaiderMalikk/Mood-Atlas/blob/main/assets/link.png" width="15"> |
+| <p align="center"><img src="https://github.com/HaiderMalikk/Trade-Sense-AI/blob/main/public/logo-w-text.svg" width="400"></p> | <p align="center"><img src="https://github.com/HaiderMalikk/Mood-Atlas/blob/main/assets/afterprompt.png" width="400"></p> |
+| [GitHub Repo](https://github.com/HaiderMalikk/Trade-Sense-AI) <img src="https://github.com/HaiderMalikk/HaiderMalikk/blob/main/linkgrey.png" width="15"> • Coming Soon | [Website](https://mood-atlas.vercel.app) <img src="https://github.com/HaiderMalikk/HaiderMalikk/blob/main/linkgrey.png" width="15"> • [GitHub Repo](https://github.com/HaiderMalikk/mood-atlas-production_build) <img src="https://github.com/HaiderMalikk/HaiderMalikk/blob/main/linkgrey.png" width="15"> |
 
 
 </div>
@@ -162,4 +162,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=haidermalikk&show_icons=true&theme=dark&locale=en&layout=compact" alt="lang_graph" width="288" />
   &nbsp;&nbsp; <!-- This creates a space between the images -->
   <img align="center" src="https://nirzak-streak-stats.vercel.app/?user=Haidermalikk&theme=dark" width="400" alt="streak graph"  />
+  
+  ###
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=haidermalikk&radius=16&theme=react&area=true&order=5&hide_title=false&hide_border=false" height="200" alt="activity-graph graph"  />
 </div>
