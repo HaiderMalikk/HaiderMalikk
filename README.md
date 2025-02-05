@@ -27,9 +27,6 @@
         src="https://skillicons.dev/icons?i=linkedin"
         alt="https://www.linkedin.com/in/haider-malik-268ab229b/"
     /></a>
-    <a href="https://discord.gg/huGZmacm" target="blank">
-      <img align="center" src="https://skillicons.dev/icons?i=discord" alt="2nSe3DPs" />
-    </a>
     <a
       href="https://www.youtube.com/@interestingly05/videos"
       target="blank"
@@ -60,6 +57,9 @@
         height="30"
         width="40"
     /></a>
+    <a>
+      <img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="2nSe3DPs" height="30" width="40" >Discord: ___haider___</img>
+    </a>
   </p>
 </div>
 
@@ -152,7 +152,7 @@
 |-------------------|------------------|
 | Trade Sense AI is a hybrid stock prediction system that combines social sentiment analysis with traditional financial data and advanced analytics to provide a more accurate, holistic prediction model that is useful and unique. | Mood Atlas is an AI place finder. Tell it how you feel, what you want to do, what you like, etc., and it finds a spot near you that you can visit based on your mood. |
 | <p align="center"><img src="https://github.com/HaiderMalikk/Trade-Sense-AI/blob/main/public/logo-w-text.svg" width="400"></p> | <p align="center"><img src="https://github.com/HaiderMalikk/Mood-Atlas/blob/main/assets/afterprompt.png" width="400"></p> |
-| [GitHub Repo](https://github.com/HaiderMalikk/Trade-Sense-AI) <img src="https://github.com/HaiderMalikk/HaiderMalikk/blob/main/linkgrey.png" width="15"> • Coming Soon | [Website](https://mood-atlas.vercel.app) <img src="https://github.com/HaiderMalikk/HaiderMalikk/blob/main/linkgrey.png" width="15"> • [GitHub Repo](https://github.com/HaiderMalikk/mood-atlas-production_build) <img src="https://github.com/HaiderMalikk/HaiderMalikk/blob/main/linkgrey.png" width="15"> |
+| [Website](https://trade-sense-ai-sigma.vercel.app) <img src="https://github.com/HaiderMalikk/HaiderMalikk/blob/main/linkgrey.png" width="15"> • [GitHub Repo](https://github.com/HaiderMalikk/Trade-Sense-AI) <img src="https://github.com/HaiderMalikk/HaiderMalikk/blob/main/linkgrey.png" width="15"> | [Website](https://mood-atlas.vercel.app) <img src="https://github.com/HaiderMalikk/HaiderMalikk/blob/main/linkgrey.png" width="15"> • [GitHub Repo](https://github.com/HaiderMalikk/mood-atlas-production_build) <img src="https://github.com/HaiderMalikk/HaiderMalikk/blob/main/linkgrey.png" width="15"> |
 
 
 </div>
