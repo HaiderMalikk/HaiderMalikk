@@ -68,7 +68,7 @@
 <h3 align="left">Languages:</h3>
   <p align="left">
     <img
-      src="https://skillicons.dev/icons?i=python,java,js,ts,swift,c,cpp,cs"
+      src="https://skillicons.dev/icons?i=python,java,js,ts,swift,c,cpp"
     />
   </p>
 </div>
@@ -88,7 +88,7 @@
   <h4 align="left">Backend</h4>
   <p align="left">
     <img
-      src="https://skillicons.dev/icons?i=spring,nodejs,express,flask,django,dotnet"
+      src="https://skillicons.dev/icons?i=spring,nodejs,express,flask,django"
     />
   </p>
 </div>
@@ -112,7 +112,7 @@
   <h4 align="left">DevOps</h4>
   <p align="left">
     <img
-      src="https://skillicons.dev/icons?i=docker,kubernetes,gcp,aws,heroku"
+      src="https://skillicons.dev/icons?i=docker,gcp,aws,heroku"
     />
   </p>
 </div>
@@ -125,11 +125,6 @@
      />
      <img
       src="./chroma-seeklogo.svg"
-      width="40"
-      height="40"
-    />
-     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
       width="40"
       height="40"
     />
