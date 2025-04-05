@@ -33,7 +33,7 @@
       ><img
         align="center"
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
-        alt="https://www.youtube.com/@interestingly05/videos"
+        alt="https://www.youtube.com/@greenbytecode/featured"
         height="30"
         width="40"
     /></a>
@@ -44,16 +44,6 @@
         align="center"
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
         alt="https://leetcode.com/u/unmaintainablecodewriter/"
-        height="30"
-        width="40"
-    /></a>
-    <a
-      href="https://stackoverflow.com/users/23523076/haider-malik"
-      target="blank"
-      ><img
-        align="center"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
-        alt="https://stackoverflow.com/users/23523076/haider-malik"
         height="30"
         width="40"
     /></a>
