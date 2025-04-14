@@ -3,7 +3,7 @@
 ###
 <h2 align="center">About🚶</h2>
 
-| <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="210"> | I'm Studying Software Engineering at York University. I have experience in languages like Python, Java, and JavaScript/TypeScript. I enjoy ML and Data Science in Python and C++, full-stack development with React Native, ReactJS, NextJS and backend development with Flask, Spring Boot, and ExpressJS. Be sure to check out my projects and my in-depth CS notes covering syntax, basics, advanced algorithms, and data structures. I also have some Computer Science content on my YouTube channel. My goal is to learn something new every day through school, LeetCode, projects, or any other activity. I believe that every bit of knowledge gained, no matter how small, represents progress.|
+| <img src="https://github.com/HaiderMalikk/HaiderMalikk/blob/main/picmix.com_11563802.gif" width="210"> | I'm Studying Software Engineering at York University. I have experience in languages like Python, Java, and JavaScript/TypeScript. I enjoy ML and Data Science in Python and C++, full-stack development with React Native, ReactJS, NextJS and backend development with Flask, Spring Boot, and ExpressJS. Be sure to check out my projects and my in-depth CS notes covering syntax, basics, advanced algorithms, and data structures. I also have some Computer Science content on my YouTube channel. My goal is to learn something new every day through school, LeetCode, projects, or any other activity. I believe that every bit of knowledge gained, no matter how small, represents progress.|
 |---|---|
 
 
