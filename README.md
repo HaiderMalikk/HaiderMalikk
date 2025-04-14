@@ -37,17 +37,6 @@
         height="30"
         width="40"
     /></a>
-    <a
-      href="https://leetcode.com/u/unmaintainablecodewriter/"
-      target="blank"
-      ><img
-        align="center"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
-        alt="https://leetcode.com/u/unmaintainablecodewriter/"
-        height="30"
-        width="40"
-    /></a>
-    <a>
       <img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="2nSe3DPs" height="30" width="40" >Discord: ___haider___</img>
     </a>
   </p>
@@ -78,7 +67,7 @@
   <h4 align="left">Backend</h4>
   <p align="left">
     <img
-      src="https://skillicons.dev/icons?i=spring,nodejs,express,flask,django"
+      src="https://skillicons.dev/icons?i=spring,nodejs,express,flask"
     />
   </p>
 </div>
@@ -102,7 +91,7 @@
   <h4 align="left">DevOps</h4>
   <p align="left">
     <img
-      src="https://skillicons.dev/icons?i=docker,gcp,aws,heroku"
+      src="https://skillicons.dev/icons?i=docker,gcp,aws,vercel"
     />
   </p>
 </div>
@@ -137,7 +126,7 @@
   
 | **What I'm Learning** 🎯 | **My Goals** 🚀 | **What I'm Reading** 📖 |
 |---|---|---|
-| - Data Science and ML 🤖 | - Finish My Personal Project  📈 | - "Applied Pattern Recognition in C++" by  Dietrich W. R. Paulus 📚 |
+| - Data Science and ML 🤖 | - Maintain and Expand my Projects  📈 | - "Applied Pattern Recognition in C++" by  Dietrich W. R. Paulus 📚 |
 | - Javascript Animation Libraries 🦋 | - Get a Internship 👷 | - Research papers on ML & AI 📄 |
 
 </div>
