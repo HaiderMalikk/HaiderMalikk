@@ -157,7 +157,7 @@
 
 <h2 align="center">Stats🤓</h2>
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=haidermalikk&show_icons=true&theme=dark&locale=en&layout=compact" alt="lang_graph" width="288" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haidermalikk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="lang_graph" width="288" />
   &nbsp;&nbsp; <!-- This creates a space between the images -->
   <img align="center" src="https://nirzak-streak-stats.vercel.app/?user=Haidermalikk&theme=dark" width="400" alt="streak graph"  />
   
