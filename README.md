@@ -32,12 +32,12 @@
       target="blank"
       ><img
         align="center"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
+        src="https://github.com/HaiderMalikk/HaiderMalikk/blob/main/Untitled-48.png"
         alt="https://www.youtube.com/@greenbytecode/featured"
-        height="30"
-        width="40"
+        height="50"
+        width="50"
     /></a>
-      <img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="2nSe3DPs" height="30" width="40" >Discord: ___haider___</img>
+      <img align="center" src="https://github.com/HaiderMalikk/HaiderMalikk/blob/main/Untitled-50.png" alt="2nSe3DPs" height="50" width="50" > Discord: ___haider___</img>
     </a>
   </p>
 </div>
@@ -47,7 +47,7 @@
 <h3 align="left">Languages:</h3>
   <p align="left">
     <img
-      src="https://skillicons.dev/icons?i=python,java,js,ts,swift,c,cpp"
+      src="https://skillicons.dev/icons?i=python,java,js,ts,c,cpp"
     />
   </p>
 </div>
@@ -58,7 +58,7 @@
   <h4 align="left">Frontend</h4>
   <p align="left">
     <img
-      src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,threejs,babel,vite"
+      src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css"
     />
   </p>
 </div>
@@ -76,13 +76,13 @@
   <h4 align="left">AI/ML</h4>
   <p align="left">
     <img
-      src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn,anaconda"
+      src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn"
     />
      <img
-      src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
+      src="https://github.com/HaiderMalikk/HaiderMalikk/blob/main/Untitled-49.png"
       alt="pandas"
-      width="40"
-      height="40"
+      width="50"
+      height="50"
     />
   </p>
 </div>
@@ -91,7 +91,7 @@
   <h4 align="left">DevOps</h4>
   <p align="left">
     <img
-      src="https://skillicons.dev/icons?i=docker,gcp,aws,vercel"
+      src="https://skillicons.dev/icons?i=git,docker,gcp,aws,vercel"
     />
   </p>
 </div>
@@ -100,24 +100,11 @@
 <h3 align="left">Databases:</h3>
   <p align="left">
      <img
-      src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,postgres,firebase"
+      src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,firebase"
      />
-     <img
-      src="./chroma-seeklogo.svg"
-      width="40"
-      height="40"
-    />
   </p>
 </div>
 
-<div style="display: flex; gap: 30px; flex-wrap: wrap;"> 
-  <h3 align="left">Other Tools:</h3>
-  <p align="left">
-    <img
-      src="https://skillicons.dev/icons?i=git,github,postman,figma,supabase"
-    />
-  </p>
-</div>
 
 <div>
   <h2 align="center">
