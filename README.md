@@ -148,6 +148,15 @@
 </div>
 
  <!-- LANGUAGES BREAKDOWN START -->
+```
+[ LANGUAGES BREAKDOWN ]
 
+Python            --> 7,311 lines
+JavaScript        --> 3,069 lines
+TypeScript        --> 5,849 lines
+Java              --> 1,842 lines
+
+[ TOTAL LINES OF CODE: 26,198 ]
+```
  <!-- LANGUAGES BREAKDOWN END -->
 
