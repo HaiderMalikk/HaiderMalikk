@@ -146,6 +146,18 @@
 </div>
 
  <!-- LANGUAGES BREAKDOWN START -->
+```
+[ LANGUAGES BREAKDOWN ]
 
+JavaScript   --> 2,636,141 lines
+TypeScript   --> 200,190 lines
+JSX          --> 2,476 lines
+Vue.js       --> 0 lines
+PHP          --> 124 lines
+C#           --> 329 lines
+Other        --> 114,985 lines
+
+[ TOTAL LINES OF CODE: 2,954,245 ]
+```
  <!-- LANGUAGES BREAKDOWN END -->
 
