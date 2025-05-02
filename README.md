@@ -137,14 +137,14 @@
 
 <h2 align="center">Stats🤓</h2>
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haidermalikk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&hide=Jupyter%20Notebook" alt="lang_graph" width="288" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haidermalikk&theme=dark&hide_border=false&layout=compact&hide=Jupyter%20Notebook" alt="lang_graph" width="288" />
   &nbsp;&nbsp; <!-- This creates a space between the images -->
   <img align="center" src="https://nirzak-streak-stats.vercel.app/?user=Haidermalikk&theme=dark" width="400" alt="streak graph"  />
 
   ###
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=haidermalikk&radius=16&theme=one-dark&area=false&&hide_title=false&hide_border=false&bg_color=151515&line=FB8C00&title_color=FEFEFE&color=FEFEFE&point=FEFEFE&grid=false&custom_title=Contribution%20Graph" height="133" alt="activity-graph graph"  />
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=haidermalikk&radius=16&theme=one-dark&area=false&&hide_title=false&hide_border=false&bg_color=151515&line=FB8C00&title_color=FEFEFE&color=FEFEFE&point=FEFEFE&grid=false&custom_title=Contribution%20Graph" height="131" alt="activity-graph graph"  />
    &nbsp;&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=haidermalikk&theme=dark" alt="lang_graph" width="308" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=haidermalikk&theme=dark&custom_title=Github%20Stats&ring_color=FB8C00&show_icons=true&icon_color=FEFEFE" alt="lang_graph" width="315" />
 </div>
 
 
