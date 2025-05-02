@@ -1,191 +1,111 @@
 {"header" : {
   "cloc_url"           : "github.com/AlDanial/cloc",
   "cloc_version"       : "1.98",
-  "elapsed_seconds"    : 19.658490896225,
-  "n_files"            : 22540,
-  "n_lines"            : 3883345,
-  "files_per_second"   : 1146.5783471878,
-  "lines_per_second"   : 197540.341244898},
-"JavaScript" :{
-  "nFiles": 18194,
-  "blank": 235049,
-  "comment": 431085,
-  "code": 2636141},
+  "elapsed_seconds"    : 0.194816112518311,
+  "n_files"            : 243,
+  "n_lines"            : 43385,
+  "files_per_second"   : 1247.33009430706,
+  "lines_per_second"   : 222697.185767539},
 "TypeScript" :{
-  "nFiles": 3472,
-  "blank": 20639,
-  "comment": 140951,
-  "code": 200190},
-"JSON" :{
-  "nFiles": 2,
-  "blank": 0,
-  "comment": 0,
-  "code": 88216},
-"CSS" :{
-  "nFiles": 65,
-  "blank": 4253,
-  "comment": 760,
-  "code": 45997},
+  "nFiles": 28,
+  "blank": 565,
+  "comment": 378,
+  "code": 5849},
 "Python" :{
-  "nFiles": 130,
-  "blank": 2897,
-  "comment": 7214,
-  "code": 8844},
-"SCSS" :{
-  "nFiles": 92,
-  "blank": 1429,
-  "comment": 1427,
-  "code": 7437},
-"Text" :{
-  "nFiles": 63,
-  "blank": 572,
-  "comment": 0,
-  "code": 7167},
-"Java" :{
-  "nFiles": 80,
-  "blank": 2291,
-  "comment": 4710,
-  "code": 7082},
-"SVG" :{
-  "nFiles": 52,
-  "blank": 3,
-  "comment": 4,
-  "code": 4474},
+  "nFiles": 48,
+  "blank": 1817,
+  "comment": 5421,
+  "code": 4779},
 "Jupyter Notebook" :{
-  "nFiles": 23,
+  "nFiles": 21,
   "blank": 0,
-  "comment": 3983,
-  "code": 3091},
-"JSX" :{
-  "nFiles": 36,
-  "blank": 324,
-  "comment": 183,
-  "code": 2476},
-"YAML" :{
-  "nFiles": 165,
-  "blank": 231,
-  "comment": 127,
-  "code": 2273},
-"Markdown" :{
-  "nFiles": 14,
-  "blank": 484,
-  "comment": 0,
-  "code": 1350},
-"Bourne Shell" :{
-  "nFiles": 10,
-  "blank": 251,
-  "comment": 229,
-  "code": 1264},
-"HTML" :{
-  "nFiles": 15,
-  "blank": 88,
-  "comment": 85,
-  "code": 1258},
-"XML" :{
-  "nFiles": 39,
-  "blank": 0,
-  "comment": 0,
-  "code": 980},
-"CoffeeScript" :{
+  "comment": 3427,
+  "code": 2532},
+"SVG" :{
+  "nFiles": 9,
+  "blank": 2,
+  "comment": 3,
+  "code": 2327},
+"JavaScript" :{
+  "nFiles": 46,
+  "blank": 378,
+  "comment": 426,
+  "code": 2256},
+"CSS" :{
   "nFiles": 16,
-  "blank": 386,
-  "comment": 40,
-  "code": 966},
-"Windows Module Definition" :{
-  "nFiles": 5,
-  "blank": 83,
+  "blank": 326,
+  "comment": 79,
+  "code": 1998},
+"Java" :{
+  "nFiles": 18,
+  "blank": 624,
+  "comment": 2084,
+  "code": 1842},
+"Text" :{
+  "nFiles": 10,
+  "blank": 345,
   "comment": 0,
-  "code": 451},
+  "code": 1686},
+"JSX" :{
+  "nFiles": 15,
+  "blank": 142,
+  "comment": 127,
+  "code": 813},
 "C" :{
   "nFiles": 1,
   "blank": 163,
   "comment": 356,
   "code": 443},
-"Swift" :{
-  "nFiles": 7,
-  "blank": 73,
-  "comment": 92,
-  "code": 400},
-"INI" :{
-  "nFiles": 23,
-  "blank": 80,
+"XML" :{
+  "nFiles": 13,
+  "blank": 0,
   "comment": 0,
-  "code": 348},
+  "code": 417},
 "C#" :{
   "nFiles": 1,
   "blank": 72,
   "comment": 66,
   "code": 329},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 43,
+  "comment": 80,
+  "code": 272},
+"Swift" :{
+  "nFiles": 2,
+  "blank": 37,
+  "comment": 55,
+  "code": 142},
 "DOS Batch" :{
   "nFiles": 1,
   "blank": 15,
   "comment": 0,
   "code": 134},
-"PHP" :{
-  "nFiles": 1,
-  "blank": 13,
-  "comment": 19,
-  "code": 124},
-"make" :{
-  "nFiles": 7,
-  "blank": 45,
-  "comment": 31,
-  "code": 119},
 "C++" :{
   "nFiles": 2,
   "blank": 26,
   "comment": 33,
   "code": 117},
-"Objective-C++" :{
-  "nFiles": 2,
-  "blank": 26,
-  "comment": 18,
-  "code": 90},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 22,
+  "comment": 12,
+  "code": 78},
 "Maven" :{
-  "nFiles": 2,
-  "blank": 10,
-  "comment": 1,
-  "code": 87},
-"SQL" :{
-  "nFiles": 3,
-  "blank": 21,
-  "comment": 24,
-  "code": 83},
-"EJS" :{
-  "nFiles": 2,
-  "blank": 4,
-  "comment": 0,
-  "code": 81},
-"Arduino Sketch" :{
   "nFiles": 1,
-  "blank": 21,
-  "comment": 15,
-  "code": 65},
-"MATLAB" :{
-  "nFiles": 2,
-  "blank": 21,
-  "comment": 24,
-  "code": 49},
-"Bourne Again Shell" :{
-  "nFiles": 2,
-  "blank": 11,
-  "comment": 1,
-  "code": 43},
-"Dockerfile" :{
-  "nFiles": 3,
-  "blank": 5,
+  "blank": 3,
   "comment": 0,
-  "code": 22},
-"Nix" :{
+  "code": 60},
+"Objective-C++" :{
   "nFiles": 1,
-  "blank": 1,
-  "comment": 0,
-  "code": 19},
-"peg.js" :{
+  "blank": 13,
+  "comment": 11,
+  "code": 48},
+"HTML" :{
   "nFiles": 1,
-  "blank": 14,
-  "comment": 5,
-  "code": 16},
+  "blank": 13,
+  "comment": 13,
+  "code": 45},
 "CSV" :{
   "nFiles": 1,
   "blank": 0,
@@ -196,7 +116,12 @@
   "blank": 3,
   "comment": 0,
   "code": 7},
-"Properties" :{
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 6},
+"SQL" :{
   "nFiles": 1,
   "blank": 0,
   "comment": 0,
@@ -207,7 +132,7 @@
   "comment": 3,
   "code": 5},
 "SUM": {
-  "blank": 269606,
-  "comment": 591486,
-  "code": 3022253,
-  "nFiles": 22540} }
+  "blank": 4611,
+  "comment": 12574,
+  "code": 26200,
+  "nFiles": 243} }

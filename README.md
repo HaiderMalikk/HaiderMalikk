@@ -149,18 +149,18 @@
 ```
 [ LANGUAGES BREAKDOWN ]
 
-JavaScript        --> 2,636,141 lines
-TypeScript        --> 200,190 lines
-JSX               --> 2,476 lines
+JavaScript        --> 2,256 lines
+TypeScript        --> 5,849 lines
+JSX               --> 813 lines
 TSX               --> 0 lines
-Python            --> 8,844 lines
-Java              --> 7,082 lines
+Python            --> 4,779 lines
+Java              --> 1,842 lines
 C                 --> 443 lines
-CSS               --> 45,997 lines
-Jupyter Notebook  --> 3,091 lines
-Other             --> 117,989 lines
+CSS               --> 1,998 lines
+Jupyter Notebook  --> 2,532 lines
+Other             --> 5,688 lines
 
-[ TOTAL LINES OF CODE: 3,022,253 ]
+[ TOTAL LINES OF CODE: 26,200 ]
 ```
  <!-- LANGUAGES BREAKDOWN END -->
 
