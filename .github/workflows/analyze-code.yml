@@ -28,8 +28,18 @@ jobs:
           # Set your GitHub username
           USERNAME="HaiderMalikk"
 
-          # Get a list of public repositories that are not forks
+          # List of additional repos to include (public, private, org-owned)
+          MANUAL_REPOS=(
+            "Proximum-AI/ADA"
+            "HaiderMalikk/Portfolio-Website"
+            "HaiderMalikk/LeetCode"
+          )
+          
+          # Get public non-fork repos from your account
           REPOS=$(curl -H "Authorization: token $GH_PAT" -s "https://api.github.com/users/$USERNAME/repos?per_page=100&type=public" | jq -r '.[] | select(.fork == false) | .full_name')
+          
+          # Combine both lists
+          ALL_REPOS=$(echo -e "${REPOS}\n${MANUAL_REPOS[@]}" | sort -u)
 
           mkdir -p public-repos
           cd public-repos
