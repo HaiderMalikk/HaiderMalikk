@@ -58,44 +58,45 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
-          # Format and update README
+          # Extract language line counts from cloc JSON
           TOTAL_LINES=$(jq '.SUM.code // 0' output/cloc-output.json)
-          JS_LINES=$(jq '.JavaScript.code // 0' output/cloc-output.json)
-          TS_LINES=$(jq '.TypeScript.code // 0' output/cloc-output.json)
-          JSX_LINES=$(jq '.JSX.code // 0' output/cloc-output.json)
-          CSHARP_LINES=$(jq '."C#".code // 0' output/cloc-output.json)
-          VUE_LINES=$(jq '."Vuejs Component".code // 0' output/cloc-output.json)
-          PHP_LINES=$(jq '.PHP.code // 0' output/cloc-output.json)
-          OTHER_LINES=$((TOTAL_LINES - JS_LINES - TS_LINES - JSX_LINES - PHP_LINES - CSHARP_LINES - VUE_LINES))
-
-          # Function to format numbers with commas (ensuring proper locale settings)
-          format_number() {
+          PYTHON=$(jq '.Python.code // 0' output/cloc-output.json)
+          JAVA=$(jq '.Java.code // 0' output/cloc-output.json)
+          JS=$(jq '.JavaScript.code // 0' output/cloc-output.json)
+          TS=$(jq '.TypeScript.code // 0' output/cloc-output.json)
+          JSX=$(jq '.JSX.code // 0' output/cloc-output.json)
+          TSX=$(jq '.TSX.code // 0' output/cloc-output.json)
+          C_LANG=$(jq '.C.code // 0' output/cloc-output.json)
+          CSS=$(jq '.CSS.code // 0' output/cloc-output.json)
+          IPYNB=$(jq '."Jupyter Notebook".code // 0' output/cloc-output.json)
+          
+          # Calculate Other
+          OTHER=$((TOTAL_LINES - PYTHON - JAVA - JS - TS - JSX - TSX - C_LANG - CSS - IPYNB))
+          
+          # Format numbers with commas
+          format() {
             export LC_ALL="en_US.UTF-8"
-            printf "%'d\n" $1
+            printf "%'d\n" "$1"
           }
-
-          FORMATTED_TOTAL=$(format_number $TOTAL_LINES)
-          FORMATTED_JS=$(format_number $JS_LINES)
-          FORMATTED_TS=$(format_number $TS_LINES)
-          FORMATTED_JSX=$(format_number $JSX_LINES)
-          FORMATTED_CSHARP=$(format_number $CSHARP_LINES)
-          FORMATTED_VUE=$(format_number $VUE_LINES)
-          FORMATTED_PHP=$(format_number $PHP_LINES)
-          FORMATTED_OTHER=$(format_number $OTHER_LINES)
-
+          
+          # Create the updated code block
           CODE_BLOCK="\`\`\`
           [ LANGUAGES BREAKDOWN ]
-
-          JavaScript   --> $FORMATTED_JS lines
-          TypeScript   --> $FORMATTED_TS lines
-          JSX          --> $FORMATTED_JSX lines
-          Vue.js       --> $FORMATTED_VUE lines
-          PHP          --> $FORMATTED_PHP lines
-          C#           --> $FORMATTED_CSHARP lines
-          Other        --> $FORMATTED_OTHER lines
-
-          [ TOTAL LINES OF CODE: $FORMATTED_TOTAL ]
+          
+          JavaScript        --> $(format $JS) lines
+          TypeScript        --> $(format $TS) lines
+          JSX               --> $(format $JSX) lines
+          TSX               --> $(format $TSX) lines
+          Python            --> $(format $PYTHON) lines
+          Java              --> $(format $JAVA) lines
+          C                 --> $(format $C_LANG) lines
+          CSS               --> $(format $CSS) lines
+          Jupyter Notebook  --> $(format $IPYNB) lines
+          Other             --> $(format $OTHER) lines
+          
+          [ TOTAL LINES OF CODE: $(format $TOTAL_LINES) ]
           \`\`\`"
+
 
           # Update README.md by replacing the section between predefined comment markers
           echo "$CODE_BLOCK" > temp_block.txt
