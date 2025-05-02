@@ -48,7 +48,7 @@ jobs:
           # Run cloc to analyze lines of code, excluding non-source code files
           echo "Calculating lines of code..."
           mkdir -p ../output
-          cloc . --exclude-ext=json,html,css,svg,md,py,ps1,scss --json > ../output/cloc-output.json
+          cloc public-repos --by-file --include-lang=JavaScript,TypeScript,JSX,TSX,Python,Java,C,CSS,"Jupyter Notebook" --json > output/cloc-output.json
 
       # Commit and push the updated cloc-output.json and README.md to the current branch
       - name: Commit and Push Output
