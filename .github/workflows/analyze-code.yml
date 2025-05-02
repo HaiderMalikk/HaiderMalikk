@@ -25,7 +25,8 @@ jobs:
         env:
           GH_PAT: ${{ secrets.GH_PAT }}
         run: |
-          USERNAME="arhamkhnz"
+          # Set your GitHub username
+          USERNAME="<your-github-username>"
 
           # Get a list of public repositories that are not forks
           REPOS=$(curl -H "Authorization: token $GH_PAT" -s "https://api.github.com/user/repos?per_page=100" | jq -r '.[] | select(.fork == false) | .full_name') || echo "Error fetching repositories"
@@ -40,8 +41,8 @@ jobs:
             # Determine the default branch dynamically and clone only that branch
             DEFAULT_BRANCH=$(curl -H "Authorization: token $GH_PAT" -s "https://api.github.com/repos/$REPO" | jq -r '.default_branch')
 
-            # echo "Cloning $REPO (default branch: $DEFAULT_BRANCH)..."
-            git clone --branch "$DEFAULT_BRANCH" --single-branch "$AUTHENTICATED_REPO" "$(basename $REPO)-$DEFAULT_BRANCH" || echo "Failed to clone a repository"
+            echo "Cloning $REPO (default branch: $DEFAULT_BRANCH)..."
+            git clone --branch "$DEFAULT_BRANCH" --single-branch "$AUTHENTICATED_REPO" "$(basename $REPO)-$DEFAULT_BRANCH" || echo "Failed to clone $REPO."
           done
 
           # Run cloc to analyze lines of code, excluding non-source code files
