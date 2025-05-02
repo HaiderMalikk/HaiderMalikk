@@ -142,9 +142,9 @@
   <img align="center" src="https://nirzak-streak-stats.vercel.app/?user=Haidermalikk&theme=dark" width="400" alt="streak graph"  />
 
   ###
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=haidermalikk&radius=16&theme=one-dark&area=false&&hide_title=false&hide_border=false&bg_color=151515&line=FB8C00&title_color=FEFEFE&color=FEFEFE&point=FEFEFE&grid=false&custom_title=Contribution%20Graph" height="175" alt="activity-graph graph"  />
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=haidermalikk&radius=16&theme=one-dark&area=false&&hide_title=false&hide_border=false&bg_color=151515&line=FB8C00&title_color=FEFEFE&color=FEFEFE&point=FEFEFE&grid=false&custom_title=Contribution%20Graph" height="133" alt="activity-graph graph"  />
    &nbsp;&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=haidermalikk&theme=dark" alt="lang_graph" width="400" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=haidermalikk&theme=dark" alt="lang_graph" width="308" />
 </div>
 
  <!-- LANGUAGES BREAKDOWN START -->
