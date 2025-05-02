@@ -61,42 +61,33 @@ jobs:
           # Extract language line counts from cloc JSON
           TOTAL_LINES=$(jq '.SUM.code // 0' output/cloc-output.json)
           PYTHON=$(jq '.Python.code // 0' output/cloc-output.json)
-          JAVA=$(jq '.Java.code // 0' output/cloc-output.json)
-          JS=$(jq '.JavaScript.code // 0' output/cloc-output.json)
-          TS=$(jq '.TypeScript.code // 0' output/cloc-output.json)
-          JSX=$(jq '.JSX.code // 0' output/cloc-output.json)
-          TSX=$(jq '.TSX.code // 0' output/cloc-output.json)
-          C_LANG=$(jq '.C.code // 0' output/cloc-output.json)
-          CSS=$(jq '.CSS.code // 0' output/cloc-output.json)
           IPYNB=$(jq '."Jupyter Notebook".code // 0' output/cloc-output.json)
-          
-          # Calculate Other
-          OTHER=$((TOTAL_LINES - PYTHON - JAVA - JS - TS - JSX - TSX - C_LANG - CSS - IPYNB))
-          
+          JS=$(jq '.JavaScript.code // 0' output/cloc-output.json)
+          JSX=$(jq '.JSX.code // 0' output/cloc-output.json)
+          TS=$(jq '.TypeScript.code // 0' output/cloc-output.json)
+          JAVA=$(jq '.Java.code // 0' output/cloc-output.json)
+
+          # Combine related languages
+          PYTHON_TOTAL=$((PYTHON + IPYNB))
+          JS_TOTAL=$((JS + JSX))
+
           # Format numbers with commas
           format() {
             export LC_ALL="en_US.UTF-8"
             printf "%'d\n" "$1"
           }
-          
+
           # Create the updated code block
           CODE_BLOCK="\`\`\`
           [ LANGUAGES BREAKDOWN ]
-          
-          JavaScript        --> $(format $JS) lines
+
+          Python            --> $(format $PYTHON_TOTAL) lines
+          JavaScript        --> $(format $JS_TOTAL) lines
           TypeScript        --> $(format $TS) lines
-          JSX               --> $(format $JSX) lines
-          TSX               --> $(format $TSX) lines
-          Python            --> $(format $PYTHON) lines
           Java              --> $(format $JAVA) lines
-          C                 --> $(format $C_LANG) lines
-          CSS               --> $(format $CSS) lines
-          Jupyter Notebook  --> $(format $IPYNB) lines
-          Other             --> $(format $OTHER) lines
-          
+
           [ TOTAL LINES OF CODE: $(format $TOTAL_LINES) ]
           \`\`\`"
-
 
           # Update README.md by replacing the section between predefined comment markers
           echo "$CODE_BLOCK" > temp_block.txt
@@ -110,3 +101,4 @@ jobs:
           git add output/cloc-output.json README.md
           git commit -m "chore: update README and cloc-output.json with latest code stats" || echo "No changes to commit"
           git push origin HEAD
+
