@@ -1,10 +1,13 @@
+<img align="center" src="https://github.com/HaiderMalikk/HaiderMalikk/blob/main/city.gif" alt="city"/>
+
 <h1 align="center">Hi, My Name Is Haider 👋</h1>
 
 ###
 <h2 align="center">About🚶</h2>
 
-| <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGkzNGNkMWczcTNlNmk4bWVrZDR3aG9udDNhOTNsc2huYXYxcmc5ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UevalSWg5twQeqpc8Q/giphy.gif" width="210"> | I'm Currently Studying Software Engineering At York University. I Have Experience In Programming Languages Such As Python, Java, And JavaScript/TypeScript, AI/ML Frameworks Like Tensorflow, PyTorch and OpenCV, Full-Stack Development Frameworks Like React Native, ReactJS, And NextJS and Backend Frameworks Like Flask, Spring Boot, And ExpressJS. My Interests Include Machine Learning, Data Science, AI research and development, And Web Development. My Goal Is To Learn Something New Every Day, Whether Through School, LeetCode, Personal Projects, Or Other Activities. I Firmly Believe That Every Bit Of Knowledge Gained, No Matter How Small, Represents Progress. |
-|---|---|
+<p  align="center">
+I'm Currently Studying Software Engineering At York University. I Have Experience In Programming Languages Such As Python, Java, And JavaScript/TypeScript, AI/ML Frameworks Like Tensorflow, PyTorch and OpenCV, Full-Stack Development Frameworks Like React Native, ReactJS, And NextJS and Backend Frameworks Like Flask, Spring Boot, And ExpressJS. My Interests Include Machine Learning, Data Science, AI research and development, And Web Development. My Goal Is To Learn Something New Every Day, Whether Through School, LeetCode, Personal Projects, Or Other Activities. I Firmly Believe That Every Bit Of Knowledge Gained, No Matter How Small, Represents Progress.
+</p>
 
 
 
@@ -113,8 +116,8 @@
   
 | **What I'm Learning** 🎯 | **My Goals** 🚀 | **What I'm Reading** 📖 |
 |---|---|---|
-| - Data Science and ML 🤖 | - Maintain and Expand my Projects  📈 | - "Applied Pattern Recognition in C++" by  Dietrich W. R. Paulus 📚 |
-| - Javascript Animation Libraries 🦋 | - Get a Internship 👷 | - Research papers on ML & AI 📄 |
+| <p  align="center"> Data Science and ML 🤖 </p> | <p  align="center"> Maintain and Expand my Projects  📈</p> | <p  align="center"> "Applied Pattern Recognition in C++" by  Dietrich W. R. Paulus 📚 </p> |
+| <p  align="center"> Javascript Animation Libraries 🦋 </p> | <p  align="center"> Get a Internship 👷 </p> | <p  align="center">Research papers on ML & AI 📄 </p> |
 
 </div>
 
@@ -124,11 +127,11 @@
 
 | <p align="center"><span style="display:inline-block; text-align:center;"><img src="https://github.com/Proximum-AI/.github/blob/main/assets/proximum-logo-alt.svg" width="40"><br><strong>Proximum AI</strong></span></p> | <p align="center"><span style="display:inline-block; text-align:center;"><img src="https://github.com/Proximum-AI/ADA/blob/main/assets/adalogo.svg" width="50"><br><strong>ADA</strong></span></p> |
 |-------------------|------------------|
-| Proximum AI is an innovative project focused on developing advanced AI agents for real-world applications. The goal is to create intelligent systems that can understand and interact with the world in meaningful ways, combining futuristic ideas with AI to make them a reality. | ADA (Advanced Digital Agent) is my latest addition to the Proximum AI Project, designed to be a JARVIS-like AI assistant that can answer questions like Siri but with enhanced contextual awareness of the world around you. As an admin, you have complete control over every action and capability of this agent. |
+| <p  align="center"> Proximum AI is an innovative project focused on developing advanced AI agents for real-world applications. The goal is to create intelligent systems that can understand and interact with the world in meaningful ways, combining futuristic ideas with AI to make them a reality. </p> | <p  align="center"> ADA (Advanced Digital Agent) is my latest addition to the Proximum AI Project, designed to be a JARVIS-like AI assistant that can answer questions like Siri but with enhanced contextual awareness of the world around you. As an admin, you have complete control over every action and capability of this agent. </p>|
 | <p align="center"><img src="https://github.com/Proximum-AI/.github/blob/main/assets/proximum-ai-logo-bg.svg" width="410"></p> | <p align="center"><img src="https://github.com/Proximum-AI/ADA/blob/main/assets/ada.svg" width="1650"></p> |
 | [GitHub Page](https://github.com/Proximum-AI) <img src="https://github.com/HaiderMalikk/HaiderMalikk/blob/main/linkgrey.png" width="15">  |  [Github Repo](https://github.com/Proximum-AI/ADA/tree/main) <img src="https://github.com/HaiderMalikk/HaiderMalikk/blob/main/linkgrey.png" width="15"> |
 | <p align="center"><img src="https://github.com/HaiderMalikk/Trade-Sense-AI/blob/main/public/logo-bg.svg" width="40"><br><strong>Reddish Trends</strong></p> | <p align="center"><img src="https://github.com/HaiderMalikk/HaiderMalikk/blob/main/logo-nobg.png" width="45"><br><strong>Mood Atlas</strong></p> |
-| Reddish Trends is a unique website that uses reddit to uncover stock data and analyze sentiment data using algorithms, add financial data using Yahoo Finance and provide feedback using AI. The website uses Next.js, TypeScript and Tailwind | Mood Atlas is an AI place finder. Tell it how you feel, what you want to do, what you like, etc., and it finds a spot near you that you can visit based on your mood. The website uses Next.js, JavaScript, CSS, Python and Flask |
+| <p  align="center"> Reddish Trends is a unique website that uses reddit to uncover stock data and analyze sentiment data using algorithms, add financial data using Yahoo Finance and provide feedback using AI. The website uses Next.js, TypeScript and Tailwind </p> | <p  align="center"> Mood Atlas is an AI place finder. Tell it how you feel, what you want to do, what you like, etc., and it finds a spot near you that you can visit based on your mood. The website uses Next.js, JavaScript, CSS, Python and Flask </p> |
 | <p align="center"><img src="https://github.com/HaiderMalikk/HaiderMalikk/blob/main/rdtrends.png" width="450"></p> | <p align="center"><img src="https://github.com/HaiderMalikk/Mood-Atlas/blob/main/assets/afterprompt.png" width="1650"></p> |
 | [Website](https://reddishtrends.com) <img src="https://github.com/HaiderMalikk/HaiderMalikk/blob/main/linkgrey.png" width="15"> • [GitHub Repo Website](https://github.com/HaiderMalikk/Reddish-Trends) <img src="https://github.com/HaiderMalikk/HaiderMalikk/blob/main/linkgrey.png" width="15"> • [GitHub Repo Engine](https://github.com/HaiderMalikk/Reddish-Trends-Engine) <img src="https://github.com/HaiderMalikk/HaiderMalikk/blob/main/linkgrey.png" width="15"> |  [Website](https://mood-atlas.vercel.app) <img src="https://github.com/HaiderMalikk/HaiderMalikk/blob/main/linkgrey.png" width="15"> • [GitHub Repo](https://github.com/HaiderMalikk/mood-atlas-production_build) <img src="https://github.com/HaiderMalikk/HaiderMalikk/blob/main/linkgrey.png" width="15"> |
 
