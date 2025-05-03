@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/HaiderMalikk/HaiderMalikk/blob/main/city.gif" alt="city"/>
+<img align="center" src="https://github.com/HaiderMalikk/HaiderMalikk/blob/main/city-alt.gif" alt="city"/>
 
 <h1 align="center">Hi, My Name Is Haider 👋</h1>
 
