@@ -1,0 +1,138 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.98",
+  "elapsed_seconds"    : 0.188828945159912,
+  "n_files"            : 238,
+  "n_lines"            : 40858,
+  "files_per_second"   : 1260.39998686879,
+  "lines_per_second"   : 216375.725476827},
+"TypeScript" :{
+  "nFiles": 28,
+  "blank": 565,
+  "comment": 378,
+  "code": 5849},
+"Python" :{
+  "nFiles": 48,
+  "blank": 1818,
+  "comment": 5431,
+  "code": 4779},
+"Jupyter Notebook" :{
+  "nFiles": 21,
+  "blank": 0,
+  "comment": 3431,
+  "code": 2537},
+"JavaScript" :{
+  "nFiles": 46,
+  "blank": 378,
+  "comment": 426,
+  "code": 2256},
+"CSS" :{
+  "nFiles": 16,
+  "blank": 326,
+  "comment": 79,
+  "code": 1998},
+"Java" :{
+  "nFiles": 17,
+  "blank": 622,
+  "comment": 2072,
+  "code": 1821},
+"Text" :{
+  "nFiles": 10,
+  "blank": 344,
+  "comment": 0,
+  "code": 1686},
+"JSX" :{
+  "nFiles": 15,
+  "blank": 142,
+  "comment": 127,
+  "code": 813},
+"C" :{
+  "nFiles": 1,
+  "blank": 163,
+  "comment": 356,
+  "code": 443},
+"XML" :{
+  "nFiles": 13,
+  "blank": 0,
+  "comment": 0,
+  "code": 417},
+"C#" :{
+  "nFiles": 1,
+  "blank": 72,
+  "comment": 66,
+  "code": 329},
+"Bourne Shell" :{
+  "nFiles": 2,
+  "blank": 43,
+  "comment": 80,
+  "code": 272},
+"DOS Batch" :{
+  "nFiles": 1,
+  "blank": 15,
+  "comment": 0,
+  "code": 134},
+"C++" :{
+  "nFiles": 2,
+  "blank": 26,
+  "comment": 33,
+  "code": 117},
+"YAML" :{
+  "nFiles": 1,
+  "blank": 24,
+  "comment": 14,
+  "code": 76},
+"Maven" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 60},
+"Objective-C++" :{
+  "nFiles": 1,
+  "blank": 13,
+  "comment": 11,
+  "code": 48},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 13,
+  "comment": 13,
+  "code": 45},
+"SVG" :{
+  "nFiles": 6,
+  "blank": 2,
+  "comment": 3,
+  "code": 44},
+"CSV" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 9},
+"Objective-C" :{
+  "nFiles": 1,
+  "blank": 3,
+  "comment": 0,
+  "code": 7},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 6},
+"SQL" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 0,
+  "code": 6},
+"C/C++ Header" :{
+  "nFiles": 2,
+  "blank": 2,
+  "comment": 3,
+  "code": 5},
+"Swift" :{
+  "nFiles": 1,
+  "blank": 0,
+  "comment": 4,
+  "code": 0},
+"SUM": {
+  "blank": 4574,
+  "comment": 12527,
+  "code": 23757,
+  "nFiles": 238} }
