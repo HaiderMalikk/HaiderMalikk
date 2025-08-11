@@ -53,7 +53,7 @@ I'm Currently Studying Software Engineering At York University. I Have Experienc
 <h3 align="left">Languages:</h3>
   <p align="left">
     <img
-      src="https://skillicons.dev/icons?i=python,java,js,ts,c,cpp"
+      src="https://skillicons.dev/icons?i=python,java,js,ts,c"
     />
   </p>
 </div>
@@ -119,8 +119,8 @@ I'm Currently Studying Software Engineering At York University. I Have Experienc
   
 | **What I'm Learning** 🎯 | **My Goals** 🚀 | **What I'm Reading** 📖 |
 |---|---|---|
-| <p  align="center"> Data Science and ML 🤖 </p> | <p  align="center"> Maintain and Expand my Projects  📈</p> | <p  align="center"> "Applied Pattern Recognition in C++" by  Dietrich W. R. Paulus 📚 </p> |
-| <p  align="center"> Recursive self-improvement ↪️ </p> | <p  align="center"> Get a Internship 👷 </p> | <p  align="center">Research papers on ML & AI 📄 </p> |
+| <p  align="center"> AI & ML 🤖 </p> | <p  align="center"> Maintain and Expand my Projects  📈</p> | <p  align="center"> "Applied Pattern Recognition in C++" by  Dietrich W. R. Paulus 📚 </p> |
+| <p  align="center"> UI Libraries 🧑‍🎨 </p> | <p  align="center"> Learn More 📖 </p> | <p  align="center">Research papers on ML & AI 📄 </p> |
 
 </div>
 
