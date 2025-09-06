@@ -6,7 +6,7 @@
 <h2 align="center">About🚶</h2>
 
 <p  align="center">
-I'm Currently Studying Software Engineering At York University. I Have Experience In Programming Languages Such As Python, Java, And JavaScript/TypeScript, AI/ML Frameworks Like Tensorflow, PyTorch and OpenCV, Full-Stack Development Frameworks Like React Native, ReactJS, And NextJS and Backend Frameworks Like Flask, Spring Boot, And ExpressJS. My Interests Include Machine Learning, Data Science, AI research and development, And Web Development. My Goal Is To Learn Something New Every Day, Whether Through School, LeetCode, Personal Projects, Or Other Activities. I Firmly Believe That Every Bit Of Knowledge Gained, No Matter How Small, Represents Progress.
+I just finished my second year at York University studying Software Engineering. Now I am currently interning at RBC as a Full Stack Developer on the RIG team. I Have Experience In Programming Languages Such As Python, JavaScript and Java, AI/ML Frameworks Like Tensorflow, PyTorch and OpenCV, Full-Stack Development with React, And NextJS and Backend Frameworks Like Flask, ExpressJS. My Interests Include Machine Learning, Data Science, AI research and developmen, And Web Development. My Goal Is To Learn Something New Every Day, Whether Through School, LeetCode, Personal Projects, Or Other Activities. I Firmly Believe That Every Bit Of Knowledge Gained, No Matter How Small, Represents Progress.
 </p>
 
 
@@ -42,9 +42,7 @@ I'm Currently Studying Software Engineering At York University. I Have Experienc
         alt="https://www.youtube.com/@greenbytecode/featured"
         height="50"
         width="50"
-    /></a>
-      <img align="center" src="https://github.com/HaiderMalikk/HaiderMalikk/blob/main/Untitled-50.png" alt="2nSe3DPs" height="50" width="50" > Discord: ___haider___</img>
-    </a>
+    />
   </p>
 </div>
 
@@ -73,7 +71,7 @@ I'm Currently Studying Software Engineering At York University. I Have Experienc
   <h4 align="left">Backend</h4>
   <p align="left">
     <img
-      src="https://skillicons.dev/icons?i=spring,nodejs,express,flask"
+      src="https://skillicons.dev/icons?i=nodejs,express,flask"
     />
   </p>
 </div>
@@ -106,7 +104,7 @@ I'm Currently Studying Software Engineering At York University. I Have Experienc
 <h3 align="left">Databases:</h3>
   <p align="left">
      <img
-      src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,firebase"
+      src="https://skillicons.dev/icons?i=sqlite,postgres,firebase"
      />
   </p>
 </div>
