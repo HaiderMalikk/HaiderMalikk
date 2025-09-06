@@ -6,7 +6,7 @@
 <h2 align="center">About🚶</h2>
 
 <p  align="center">
-I just finished my second year at York University studying Software Engineering. Now I am currently interning at RBC as a Full Stack Developer on the RIG team. I Have Experience In Programming Languages Such As Python, JavaScript and Java, AI/ML Frameworks Like Tensorflow, PyTorch and OpenCV, Full-Stack Development with React, And NextJS and Backend Frameworks Like Flask, ExpressJS. My Interests Include Machine Learning, Data Science, AI research and developmen, And Web Development. My Goal Is To Learn Something New Every Day, Whether Through School, LeetCode, Personal Projects, Or Other Activities. I Firmly Believe That Every Bit Of Knowledge Gained, No Matter How Small, Represents Progress.
+Hello! My name is Haider, and I just finished my second year at York University studying Software Engineering. Now I am currently interning at RBC as a Full Stack Developer on the RIG team. I Have Experience In Programming Languages Such As Python, JavaScript and Java, AI/ML Frameworks Like Tensorflow, PyTorch and OpenCV, Full-Stack Development with React, And NextJS and Backend Frameworks Like Flask, ExpressJS. My Interests Include Machine Learning, Data Science, AI research and developmen, And Web Development. My Goal Is To Learn Something New Every Day, Whether Through School, LeetCode, Personal Projects, Or Other Activities. I Firmly Believe That Every Bit Of Knowledge Gained, No Matter How Small, Represents Progress.
 </p>
 
 
@@ -138,6 +138,20 @@ I just finished my second year at York University studying Software Engineering.
 
 
 </div>
+
+<div align="center">
+  <h2>Research Papers 📄</h2>
+
+| <p align="center"><strong>AI-Driven Document Summarization Solutions for Docsumo</strong><br>Author(s): Haider Malik<br>Date: April 2025</p> | <p align="center"><strong>Enhancing Safety Certification of AI-Driven Autonomous Systems through Explainable AI, Regression Testing, and Standardized Regulations</strong><br>Author(s): Haider Malik<br>Date: March 2025</p> |
+|-------------------|------------------|
+| <p align="center"> This study investigates how Docsumo's intelligent document processing technology can incorporate AI-driven document summarization. The study looks into the summarization tools that are already available, notes how much time users spend manually interpreting data that has been collected, and suggests an AI-based solution that works with Docsumo's technology stack. It is advised to use a hybrid strategy that combines extractive and abstractive summarization, utilizing pretrained transformer models that have been refined on both structured and unstructured business documents. The ultimate objective is to establish Docsumo as a pioneer in intelligent document summarizing by automating insights production, improving user experience, and stimulating product innovation. </p> | <p align="center"> Artificial intelligence (AI) has transformed operational capabilities and efficiency through its quick integration into autonomous systems, which span industries like aircraft, healthcare, and transportation. Nevertheless, this development poses serious difficulties for guaranteeing the security and dependability of these AI-powered systems. For AI applications with probabilistic behaviours and learning capabilities, traditional certification procedures — which were created for deterministic systems — are frequently insufficient. </p> |
+| <p align="center"><img src="https://github.com/HaiderMalikk/HaiderMalikk/blob/main/paper2.png" width="400"></p> | <p align="center"><img src="https://github.com/HaiderMalikk/HaiderMalikk/blob/main/paper1.png" width="400"></p> |
+| <p align="center"> [Read Paper](https://drive.google.com/file/d/1C_0-LcVoGf7Xjw2HtJyq5zyKPWiYOiVX/view) <img src="https://github.com/HaiderMalikk/HaiderMalikk/blob/main/linkgrey.png" width="15"> </p> | <p align="center"> [Read Paper](https://drive.google.com/file/d/1wLUPWPMxPZWVOqfXA9AEQhP8St7H26-q/view) <img src="https://github.com/HaiderMalikk/HaiderMalikk/blob/main/linkgrey.png" width="15"> </p> |
+
+</div>
+
+
+
 
 <h2 align="center">Stats🤓</h2>
 <div align="center">
