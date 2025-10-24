@@ -166,10 +166,10 @@ Hello! My name is Haider, and I just finished my second year at York University 
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github.com/HaiderMalikk/HaiderMalikk/blob/main/AI_Notes_Page-10-1.png" width="150" alt="AI Notes Preview 1">
-      <img src="https://github.com/HaiderMalikk/HaiderMalikk/blob/main/AI_Notes_Page-21-1.png" width="150" alt="AI Notes Preview 2">
-      <img src="https://github.com/HaiderMalikk/HaiderMalikk/blob/main/AI_Notes_Page-66-1.png" width="150" alt="AI Notes Preview 3">
-       <img src="https://github.com/HaiderMalikk/HaiderMalikk/blob/main/AI_Notes_Index-1-1.png" width="150" alt="AI Notes Preview 3">
+      <img src="https://github.com/HaiderMalikk/HaiderMalikk/blob/main/AI_Notes_Page-10-1.png" width="200" alt="AI Notes Preview 1">
+      <img src="https://github.com/HaiderMalikk/HaiderMalikk/blob/main/AI_Notes_Page-21-1.png" width="200" alt="AI Notes Preview 2">
+      <img src="https://github.com/HaiderMalikk/HaiderMalikk/blob/main/AI_Notes_Page-66-1.png" width="200" alt="AI Notes Preview 3">
+       <img src="https://github.com/HaiderMalikk/HaiderMalikk/blob/main/AI_Notes_Index-1-1.png" width="200" alt="AI Notes Preview 3">
     </td>
   </tr>
   <tr>
