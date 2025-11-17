@@ -151,17 +151,17 @@ Hello! My name is Haider, and I just finished my second year at York University 
 </div>
 
 
-<h2 align="center">My AI Notes 🧠</h2>
+<h2 align="center">My ML Notes 🧠</h2>
 
 <div align="center">
 
 <table>
   <tr>
-    <td align="center"><strong>Haider’s AI Notes</strong><br>Author: Haider Malik<br>Date: 2025</td>
+    <td align="center"><strong>Haider’s Machine Learning Notes</strong><br>Author: Haider Malik<br>Date: 2025</td>
   </tr>
   <tr>
     <td align="center">
-      These notes represent my learning through many many months, almost everything I know in the field of Artificial Intelligence. I truly love them because they capture how much I’ve grown and learned. Whenever I forget something or need a refresher, these notes are where I go back to. They reflect my journey, my curiosity, and my understanding of AI written, refined, and revisited countless times. Take a look at them, there might be a topic you like!
+      These notes represent my learning through many many months, almost everything I know in the field of Machine Learning. I truly love them because they capture how much I’ve grown and learned. Whenever I forget something or need a refresher, these notes are where I go back to. They reflect my journey, my curiosity, and my understanding of ML written, refined, and revisited countless times. Take a look at them, there might be a topic you like!
     </td>
   </tr>
   <tr>
@@ -174,13 +174,13 @@ Hello! My name is Haider, and I just finished my second year at York University 
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/HaiderMalikk/CS_NOTES/tree/main/AI/AI_Notes">View Notes on GitHub</a>
+      <a href="https://github.com/HaiderMalikk/CS_NOTES/tree/main/Machine_Learning/ML_Notes">View Notes on GitHub</a>
       <img src="https://github.com/HaiderMalikk/HaiderMalikk/blob/main/linkgrey.png" width="15">
     </td>
   </tr>
   <tr>
     <td align="center">
-      📘 <strong>How to use:</strong> Open the index pages to browse topics. Each topic links to a corresponding page, and every page has a matching PDF with the same number in its name for easy reference and reading. Some topics have code examples, If you want to see code examples for that topic see if it exists under <a href="https://github.com/HaiderMalikk/CS_NOTES/tree/main/AI">All AI Notes</a>
+      📘 <strong>How to use:</strong> Open the index pages to browse topics. Each topic links to a corresponding page, and every page has a matching PDF with the same number in its name for easy reference and reading. Some topics have code examples, If you want to see code examples for that topic see if it exists under <a href="https://github.com/HaiderMalikk/CS_NOTES/tree/main/Machine_Learning">All ML Notes</a>
     </td>
   </tr>
 </table>
