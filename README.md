@@ -71,7 +71,7 @@ Hello! My name is Haider, and I just finished my second year at York University 
   <h4 align="left">Backend</h4>
   <p align="left">
     <img
-      src="https://skillicons.dev/icons?i=nodejs,express,flask"
+      src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask"
     />
   </p>
 </div>
