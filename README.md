@@ -51,7 +51,7 @@ Hello! My name is Haider, and I just finished my second year at York University 
 <h3 align="left">Languages:</h3>
   <p align="left">
     <img
-      src="https://skillicons.dev/icons?i=python,js,ts,c,bash"
+      src="https://skillicons.dev/icons?i=python,js,ts,java,c,bash"
     />
   </p>
 </div>
