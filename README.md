@@ -51,7 +51,7 @@ Hello! My name is Haider, im a 3rd year student studying Software Engineering. I
 <h3 align="left">Languages:</h3>
   <p align="left">
     <img
-      src="https://skillicons.dev/icons?i=python,js,ts,java,c,bash"
+      src="https://skillicons.dev/icons?i=python,js,ts,java,c"
     />
   </p>
 </div>
@@ -71,7 +71,7 @@ Hello! My name is Haider, im a 3rd year student studying Software Engineering. I
   <h4 align="left">Backend</h4>
   <p align="left">
     <img
-      src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask"
+      src="https://skillicons.dev/icons?i=nodejs,express,fastapi"
     />
   </p>
 </div>
@@ -95,7 +95,7 @@ Hello! My name is Haider, im a 3rd year student studying Software Engineering. I
   <h4 align="left">DevOps</h4>
   <p align="left">
     <img
-      src="https://skillicons.dev/icons?i=git,docker,gcp,aws,vercel"
+      src="https://skillicons.dev/icons?i=git,docker,gcp,aws,vercel,azure"
     />
   </p>
 </div>
@@ -104,7 +104,7 @@ Hello! My name is Haider, im a 3rd year student studying Software Engineering. I
 <h3 align="left">Databases:</h3>
   <p align="left">
      <img
-      src="https://skillicons.dev/icons?i=sqlite,postgres,firebase"
+      src="https://skillicons.dev/icons?i=sqlite,postgres,firebase,mongodb"
      />
   </p>
 </div>
@@ -127,7 +127,7 @@ Hello! My name is Haider, im a 3rd year student studying Software Engineering. I
 
 | <p align="center"><span style="display:inline-block; text-align:center;"><img src="https://github.com/HaiderMalikk/RedditJams/blob/master/assets/logo.svg" width="40"><br><strong>RedditJams</strong></span></p> | <p align="center"><span style="display:inline-block; text-align:center;"><img src="https://github.com/HaiderMalikk/ADA/blob/main/assets/adalogo.svg" width="50"><br><strong>ADA</strong></span></p> |
 |-------------------|------------------|
-| <p  align="center"> RedditJams is an intelligent music recommendation system that analyzes your Spotify playlist, searches Reddit's music community for similar tastes, and uses GPT-4 to generate personalized song recommendations. </p> | <p  align="center"> ADA (Advanced Digital Agent) is my latest addition to the Proximum AI Project, designed to be a JARVIS-like AI assistant that can answer questions like Siri but with enhanced contextual awareness of the world around you. As an admin, you have complete control over every action and capability of this agent. </p>|
+| <p  align="center"> RedditJams is an intelligent music recommendation system that analyzes your Spotify playlist, searches Reddit's music community for similar tastes, and uses GPT-4 to generate personalized song recommendations. </p> | <p  align="center"> ADA is designed to be a JARVIS-like AI assistant that can answer questions like Siri but with enhanced contextual awareness of the world around you. As an admin, you have complete control over every action and capability of this agent. </p>|
 | <p align="center"><img src="https://github.com/HaiderMalikk/HaiderMalikk/blob/main/rjwebsite.png" width="700"></p> | <p align="center"><img src="https://github.com/HaiderMalikk/ADA/blob/main/assets/ada.svg" width="300"></p> |
 |  <p  align="center"> [Website](https://redditjams.com) <img src="https://github.com/HaiderMalikk/HaiderMalikk/blob/main/linkgrey.png" width="15">  • [GitHub Repo](https://github.com/HaiderMalikk/RedditJams) <img src="https://github.com/HaiderMalikk/HaiderMalikk/blob/main/linkgrey.png" width="15"> </p> |  <p  align="center"> [Github Repo](https://github.com/HaiderMalikk/ADA) <img src="https://github.com/HaiderMalikk/HaiderMalikk/blob/main/linkgrey.png" width="15"> </p> |
 | <p align="center"><img src="https://github.com/HaiderMalikk/Reddish-Trends/blob/main/public/logo-bg.svg" width="40"><br><strong>Reddish Trends</strong></p> | <p align="center"><img src="https://github.com/HaiderMalikk/HaiderMalikk/blob/main/logo-nobg.png" width="45"><br><strong>Mood Atlas</strong></p> |
